@@ -3,3 +3,4 @@ djangorestframework
 djangorestframework-simplejwt
 django-model-utils
 dj_database_url
+psycopg2-binary
